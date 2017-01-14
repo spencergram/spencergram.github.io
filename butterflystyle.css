@@ -1,0 +1,11 @@
+*{outline:1px purple solid;outline: 1px purple solid;
+    flex-flow: initial;
+    font-feature-settings: inherit;
+    font-style: italic;
+    font-feature-settings: initial;
+    font-family: fantasy;
+    float: right;}
+    nav a {margin-left: 25;}
+img{border-radius: 40px;}
+html {background-color: purple;}
+.title {color:white;font-size: 24px;}

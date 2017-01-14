@@ -1,0 +1,37 @@
+
+
+.iowa-city{
+  font-size: 100%;
+}
+
+.cedar-rapids{
+  font-size: 100%;
+}
+
+.and-beyond{
+  font-size: 100%;
+}
+
+
+h1 {
+  color: blue;
+  background-color: red;
+  font-size: 72px;
+  font-style:  italic;
+  font-weight: normal;
+  text-decoration: underline;
+  font-family: "Comic Sans MS", cursive;
+}
+
+.logo{
+  text-align: center;
+}
+
+.h1{
+  text-align: center;
+}
+
+li a{
+  padding: 20px;
+  display: block;
+}

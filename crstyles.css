@@ -1,0 +1,22 @@
+* {
+text-align: center;
+ }
+
+h1 {
+  font-family:  "georgia", cursive;
+  font-style: italic;
+
+
+}
+
+
+
+
+* img {height: 100px; width: auto;}
+
+.heart {
+   border: 5px solid green}
+
+.body  { font-family: "ariel",sans-serif; color: green;
+font-size: 20px; background-color: 0DE758 ;
+ }

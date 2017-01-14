@@ -1,0 +1,49 @@
+
+
+
+.body {
+  color: black;
+  background-color: #ffe100;
+  font-weight: normal;
+  font-family: "georgia", fantasy;
+  margin-left: 2em;
+}
+
+h1 {
+  color: black;
+  font-size: 72px;
+  font-style: italic;
+  font-weight: normal;
+  text-decoration: underline;
+  font-family: "georgia", cursive;
+  margin-bottom: .01em;
+  margin-top: .21em;
+}
+
+.nav {
+  background-color: black;
+  padding: 0.5em;
+  margin-right: 13em;
+}
+
+.nav a:visited {
+  color: white;
+  padding: 0.5em;
+}
+
+.nav a {
+  margin-left: 1.5em;
+  color: #ffe100;
+
+}
+
+.iowacity {
+  width: 200px;
+  margin-right: 1px;
+  margin-left: 1px;
+}
+
+.ul {
+  margin-right: 13em;
+  outline: 1px solid black;
+}
